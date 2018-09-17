@@ -1,1 +1,7 @@
 Add concepts here
+
+oops concepts:
+Inheritance
+Abstraction
+Polymorphism
+Encapsulatin
