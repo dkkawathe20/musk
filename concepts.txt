@@ -5,3 +5,10 @@ Inheritance
 Abstraction
 Polymorphism
 Encapsulatin
+
+Solid Concepts:
+SRP
+Open and Closed Princiole
+Liskov-Substitution Priciple
+ISP
+Depedency Injection
