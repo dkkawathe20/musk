@@ -12,3 +12,8 @@ Open and Closed Princiole
 Liskov-Substitution Priciple
 ISP
 Depedency Injection
+
+MVC Concepts:
+Model 
+View
+Controller
