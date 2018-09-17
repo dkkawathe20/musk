@@ -5,7 +5,6 @@ Inheritance
 Abstraction
 Polymorphism
 Encapsulatin
-<<<<<<< HEAD
 
 Solid Concepts:
 SRP
@@ -18,5 +17,3 @@ MVC Concepts:
 Model 
 View
 Controller
-=======
->>>>>>> a9dd9f3... oops added in conepts
