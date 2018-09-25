@@ -1,0 +1,1 @@
+dotnet aspnet-codegenerator controller -name StudentsController -m Student -dc TechUniversityContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
