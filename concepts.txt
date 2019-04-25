@@ -17,3 +17,9 @@ MVC Concepts:
 Model 
 View
 Controller
+ WorkWatch is an end-to-end workflow automation & management software. Offers complete solution for work processing & tracking across multiple locations. Single platform with In-built query management & quality check.
+Workflow: Auto case creation and allocation with configurable work flow. End to end work journey in real time. Query module to raise queries and track query responses. Check quality with random sampling.
+Time tracking:Automatic activity time tracking and real time analysis brings transparency and drive discipline. Users and managers can track their daily utilization, productivity and performance.
+performance: Monitor performance through – Inventory status, SLA status for received work items, priority, utilization, productivity, Comparison of productive and non productive time, case statistics etc.
+Planning:View demand and supply for the team and manage the inventory more efficiently. User wise and task wise view of allocated and unallocated cases and hours that are required to clear the inventory.
+RTA:Real time view on SLA, Utilization and productivity. Managers can oversee work progress and intervene as appropriate. Enables superior process monitoring and rapid action planning.
